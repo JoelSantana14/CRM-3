@@ -1,0 +1,8 @@
+{
+  "name": "OTS Master CRM",
+  "description": "Sistema integrado de gestão de plantões imobiliários, CRM com funil Kanban, simulador CEF e tabela de vendas de 877 unidades, controle de escalas, roleta e comissões.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

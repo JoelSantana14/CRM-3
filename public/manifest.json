@@ -1,0 +1,17 @@
+{
+  "name": "OTS Master CRM",
+  "short_name": "OTS CRM",
+  "description": "Sistema integrado de gestão de plantões imobiliários, CRM com funil Kanban, simulador CEF e controle de vendas.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
